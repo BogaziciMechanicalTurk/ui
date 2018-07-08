@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/logos">
+        <file>boun_logo.png</file>
+        <file>mech_turk.png</file>
+        <file>pil.png</file>
+        <file>batt_temp.png</file>
+    </qresource>
+</RCC>
